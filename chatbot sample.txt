@@ -1,0 +1,99 @@
+Recipe Finder Chatbot 🍳
+Chat with the bot to explore recipes and get detailed answers!
+
+Bot: Hi! I'm your Recipe Bot. Ask me anything about recipes, and I'll help you out!
+
+You: show recipe for chocolate cake
+
+Bot: Here's a summary of the provided recipes, formatted for better readability:
+
+Recipe 1: Chocolate Chip Cake
+
+Rating: 5
+Description: Moist, easy chocolate cake that won a baking contest.
+Ingredients: Yellow cake mix, instant chocolate pudding mix, sour cream, oil, water, eggs, chocolate chips (7)
+Steps: Mix all ingredients except chocolate chips, add chips, spray bundt pan, pour batter, bake at 325°F for ~1 hour (4 steps)
+User Review: Easy, moist, chocolaty, and sweet. A 10/10 recipe. Successfully substituted cream cheese for some sour cream.
+Recipe 2: In Pan Chocolate Cake
+
+Rating: 5
+Description: Easy, dump-and-mix cake baked in an 8x8 pan.
+Ingredients: Flour, sugar, cocoa, salt, baking soda, vegetable oil, water, vanilla, vinegar (9)
+Steps: Combine all ingredients in ungreased pan, mix, bake at 375°F for 20-25 minutes, top with powdered sugar (4 steps)
+User Review: Slightly bitter but ultra-moist and easy. Reminiscent of old-fashioned chocolate cake.
+Recipe 3: Great Chocolate Cake
+
+Rating: 4
+Description: Quick, moist, not-too-sweet chocolate cake. Can be varied.
+Ingredients: Butter recipe cake mix, chocolate pudding mix, sour cream, eggs, oil, chocolate chips (6)
+Steps: Mix all ingredients, place in greased and floured bundt pan, bake at 350°F for 45-50 minutes. Note: Water from cake mix is optional (6 steps)
+User Review: Moist, gooey, and delicious. However, the recipe lacks clarity about the water in the cake mix.
+You: show recipe for butter chicken
+
+Bot: Here's a summary of the provided recipes in a table format for easier comparison:
+
+Recipe Name	Description	Ingredients	Steps	Rating
+The Best Butter Chicken	Tweaked butter chicken recipe, not vibrant orange but amazing flavor.	11	10	5
+Famous Butter Chicken	Chicken breasts baked with butter, cracker crumbs, and seasonings.	6	7	5
+Butterflied Chicken	Alton Brown's recipe for butterflied chicken with vegetables and jus.	13	28	5
+This table summarizes the key information of each recipe, allowing for quick comparison based on factors like complexity (number of ingredients and steps) and style of preparation.
+
+You: show recipe for cheese burger
+
+Bot: Here's a summary of the provided recipes, formatted for easier comparison:
+
+Recipe Name	Description	Ingredients	Steps	Rating
+Inside Out Cheeseburgers	Cheeseburgers with cheese melted inside the patty. Served with grilled marinated vegetables.	7	9	5
+Cheeseburger Quiche	Cheeseburger quiche with a pie crust.	11	9	4
+My Ultimate Cheeseburger	Gourmet cheeseburger with a special sauce, various toppings, and a unique patty mix.	14	15	5
+Key Differences:
+
+Preparation Method: The recipes utilize vastly different cooking methods: grilling (inside-out burgers), baking (quiche), and grilling/pan-frying (ultimate cheeseburger).
+Complexity: The "Inside Out Cheeseburgers" recipe is the simplest, while "My Ultimate Cheeseburger" is the most complex, involving multiple components and steps. The quiche falls somewhere in between.
+Ingredients: The ingredient lists vary widely, reflecting the different styles and complexities of the recipes. The ultimate cheeseburger uses the most ingredients, incorporating sausage, cornflakes, and a custom sauce.
+Serving Style: The recipes offer different serving styles: a simple burger with grilled vegetables, a complete meal in a quiche, and a gourmet burger with multiple toppings.
+Similarities:
+
+Cheeseburger Theme: All recipes center around cheeseburgers, though interpreted in very different ways.
+Cheese as a Key Element: Cheese is a crucial ingredient in all three recipes, though the types and uses vary.
+This summary highlights the diverse approaches to cheeseburger-themed recipes, each offering a unique culinary experience.
+
+You: show the recipe for crunchy fried shrimp with steps and ingredients and also show some reviews for this recipe
+
+Bot: Here's a summary of the provided recipes, organized for easier comparison:
+
+Recipe 1: Crunchy Fried Shrimp
+
+Rating: 5
+Description: Extra crispy deep-fried shrimp. Requires a deep fryer and is labor-intensive.
+Pros: Extremely crunchy, restaurant-quality results.
+Cons: Time-consuming, requires a deep fryer, makes a large quantity.
+Recipe 2: Low Fat Shrimp and Veggie Stir Fry
+
+Rating: 4
+Description: Light and healthy stir-fry, adaptable to dietary needs.
+Pros: Healthy, low-fat, quick to cook once ingredients are prepped.
+Cons: Sauce might be overpowering for some; requires significant prep work.
+Recipe 3: Outrageously Good Broiled Shrimp
+
+Rating: 5
+Description: Restaurant-inspired broiled shrimp recipe.
+Pros: Easy, quick, delicious, minimal cleanup.
+Cons: Requires butterflying the shrimp (added prep time).
+Comparison Table:
+
+Feature	Crunchy Fried Shrimp	Low Fat Shrimp Stir Fry	Outrageously Good Broiled Shrimp
+Rating	5	4	5
+Cooking Method	Deep Frying	Stir-frying	Broiling
+Prep Time	Moderate	High	Moderate (includes butterflying)
+Cook Time	Moderate	Low	Low
+Healthiness	Low	High	Moderate
+Clean-up	Moderate (deep fryer)	Low	Low
+Quantity	Large	Moderate	Moderate
+Conclusion:
+
+The best choice depends on your priorities:
+
+For ultimate crunch and restaurant quality: Choose the Crunchy Fried Shrimp, but be prepared for the effort.
+For a quick, healthy, and flavorful meal: The Low Fat Shrimp and Veggie Stir Fry is a great option. Adjust sauce quantity as needed.
+For an easy, delicious, and impressive dish: The Outrageously Good Broiled Shrimp is perfect for a weeknight dinner.
