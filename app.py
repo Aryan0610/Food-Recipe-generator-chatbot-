@@ -91,7 +91,7 @@ def process_input():
 
                 # Combine the responses for Gemini API
                 combined_text = " ".join(detailed_responses)
-                api_key = "YOUR GEMINI KEY"  # API key
+                api_key = "AIzaSyBvoFCNmrk28JxhDkwsxZIVT23PlZ8l0B4"  # API key
                 bot_response = get_gemini_response(combined_text, api_key)
             else:
                 bot_response = "I couldn't find any matching recipes. Please try again with a different query."
