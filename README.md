@@ -18,7 +18,7 @@ The dataset has been preprocessed and reduced for performance. The reduced_datas
 
 ## ***Setup Instructions*** ##
 *Step 1*: Clone the Repository
-Clone this repository to your local machine:
+Clone this repository to your local machine and extract the zip file which include the dataset for chatbot:
 
 *Step 2*: Install Dependencies
 Create a virtual environment and install the required libraries:
